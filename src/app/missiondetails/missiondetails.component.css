@@ -1,0 +1,26 @@
+.container{
+    border: 5px solid #29043073;
+    text-align: center;
+    height: fit-content;
+    margin:auto;
+    padding: 1%;
+    background-color: #be88b573;
+    width: 50%;
+    box-shadow: 1px 12px 12px 12px #ecc9e673;
+}
+.header{
+    text-align:center;
+    padding-top: 2%;
+    font-size: xx-large;
+    font-weight: bolder;
+
+  }
+  .image{
+    justify-content: center;
+    float: left;
+
+  }
+  .details{
+    margin-left: 40%;
+    height: fit-content;
+  }
